@@ -1,0 +1,1 @@
+A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. This project showcases my skills, projects, and experience with a clean and animated user interface. It uses popular libraries for animations, carousels, icons, and popups, and is fully mobile-friendly.
